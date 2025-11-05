@@ -19,7 +19,7 @@ Este trabalho foi desenvolvido em grupo, com a divisão das questões práticas 
 | **VANUSA DA SILVA DE ALMEIDA** | 24000657-2 | **Questão 3:** Algoritmo de Substituição FIFO | Java |
 | **LORENA ANDRADE DE SOUZA** | 24017491-2 | **Questão 4:** Garbage Collection em Python | Python |
 | **ANA GABRIELLE DROPA DE ARAÚJO** | 24519267-2 | **Questão 5:** Comparação de Desempenho de Alocação | **Python** |
-| **CAIQUE [Sobrenome]** | [Inserir RA] | **Questão Bônus:** Algoritmo de Substituição LRU | [Escolha uma: C, Python ou Java] |
+| **CAIQUE [Sobrenome]** | [Inserir RA] | **Questão Bônus:** Algoritmo de Substituição LRU | **Python** |
 
 **OBSERVAÇÃO:** As respostas teóricas (Parte A de cada questão) estão contidas no documento de entrega PDF (`Respostas_Teoricas.pdf`) realizado por email, junto com o link deste repositório.
 
@@ -37,15 +37,7 @@ Este trabalho foi desenvolvido em grupo, com a divisão das questões práticas 
 | `q_bonus_lru/` | Código da Questão Bônus. | Caique |
 
 
-## ▶️ Instruções de Execução
+## ▶️  Instruções de Execução
 
 Não há necessidade de instruções de compilação/execução para cada programa, eles seguem o padrão de cada linguagem. Ao baixar qualquer arquivo, e compila-lo em qualquer IDE de sua ecolha (que tenha a possibilidade de ler e entender aquela determinada linguagem) o programa rodará normalmente, sem demais complicações.
 
-| Questão | Arquivo Principal (Exemplo) | Instruções de Compilação/Execução |
-| :--- | :--- | :--- |
-| **Q1 (C)** | `q1_alocacao.c` | **Compilar:** `gcc q1_alocacao.c -o q1_alocacao`<br>**Executar:** `./q1_alocacao` |
-| **Q2 (Python)** | `q2_fragmentacao.py` | **Executar:** `python q2_fragmentacao.py` |
-| **Q3 (Java)** | `FifoPageReplacement.java` | **Compilar:** `javac FifoPageReplacement.java`<br>**Executar:** `java FifoPageReplacement` |
-| **Q4 (Python)** | `q4_gc_demo.py` | **Executar:** `python q4_gc_demo.py` |
-| **Q5 (Python)** | `q5_comparacao.py` | **Executar:** `python q5_comparacao.py` |
-| **Q. Bônus (Caique)** | `lru_algorithm.[extensão]` | [Instruções específicas para a linguagem escolhida] |
