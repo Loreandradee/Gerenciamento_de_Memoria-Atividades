@@ -28,7 +28,7 @@ Este trabalho foi desenvolvido em grupo, com a divisão das questões práticas 
 | Arquivo/Pasta | Conteúdo | Responsável |
 | :--- | :--- | :--- |
 | `README.md` | Este arquivo. Instruções e organização do grupo. | Lorena |
-| `Respostas_Teoricas - SO.pdf` ou `.md` | Documento com as respostas da Parte A das Questões 1 a 5 - Enviado por email. | Lorena |
+| `Respostas_Teoricas - SO.pdf` ou `.md` | Documento com as respostas da Parte A das Questões 1 a 5 - Enviado por email. | Todos Realizaram. Lorena enviou por email |
 | `Questão01_alocacao_C/` | Código C da Questão 1. | Gabriel |
 | `Questão02_fragmentacao_py/` | Código Python da Questão 2. | Daniel |
 | `Questão03_fifo_Java/` | Código Java da Questão 3. | Vanusa |
