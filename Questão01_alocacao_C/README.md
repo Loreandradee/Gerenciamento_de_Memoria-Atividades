@@ -5,7 +5,7 @@
 ## 👤 Responsável
 
 * **Aluno:** GABRIEL GUEDES ARCHANJO
-* **Questão Prática:** Questão 1: Implementação em C de Alocação Estática vs. Dinâmica
+* **Questão Prática:** Questão 1: Implementação em C de Alocação Estática vs Dinâmica
 * **Linguagem:** C
 
 ---
