@@ -29,12 +29,12 @@ Este trabalho foi desenvolvido em grupo, com a divisão das questões práticas 
 | :--- | :--- | :--- |
 | `README.md` | Este arquivo. Instruções e organização do grupo. | |
 | `Respostas_Teoricas - SO.pdf` ou `.md` | Documento com as respostas da Parte A das Questões 1 a 5 - Enviado por email. | |
-| `q1_alocacao_c/` | Código C da Questão 1. | Gabriel |
-| `q2_fragmentacao_py/` | Código Python da Questão 2. | Daniel |
-| `q3_fifo_java/` | Código Java da Questão 3. | Vanusa |
-| `q4_gc_python/` | Código Python da Questão 4. | Lorena |
-| `q5_comparacao_alocacao/` | Código **Python** da Questão 5. | Ana |
-| `q_bonus_lru/` | Código da Questão Bônus. | Caique |
+| `Questão01_alocacao_C/` | Código C da Questão 1. | Gabriel |
+| `Questão02_fragmentacao_py/` | Código Python da Questão 2. | Daniel |
+| `Questão03_fifo_Java/` | Código Java da Questão 3. | Vanusa |
+| `Questão04_gc_Python/` | Código Python da Questão 4. | Lorena |
+| `Questão05_comparacao_alocacao/` | Código **Python** da Questão 5. | Ana |
+| `Questão06_bonus_lru/` | Código da Questão Bônus. | Caique |
 
 
 ## ▶️  Instruções de Execução
