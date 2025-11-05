@@ -23,7 +23,7 @@ Este trabalho foi desenvolvido em grupo, com a divisão das questões práticas 
 
 **OBSERVAÇÃO:** As respostas teóricas (Parte A de cada questão) estão contidas no documento de entrega PDF (`Respostas_Teoricas.pdf`) realizado por email, junto com o link deste repositório.
 
-## 📂 Estrutura do Repositório (Sugestão)
+## 📂 Estrutura do Repositório 
 
 | Arquivo/Pasta | Conteúdo | Responsável |
 | :--- | :--- | :--- |
