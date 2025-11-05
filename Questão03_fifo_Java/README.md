@@ -1,6 +1,6 @@
 # 📁 Q3 - ALGORITMO DE SUBSTITUIÇÃO DE PÁGINA FIFO
 
-> 🌐 **NOTA:** Este arquivo e a pasta foram gerenciados e carregados via interface web do GitHub.
+> 🌐 **NOTA:** Este arquivo e a pasta foram carregados via interface web do GitHub.
 
 ## 👤 Responsável
 
