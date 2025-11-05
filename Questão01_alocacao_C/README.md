@@ -1,6 +1,6 @@
 # 📁 Q1 - ALOCAÇÃO ESTÁTICA VS. DINÂMICA
 
-> 🌐 **NOTA:** Este arquivo e a pasta foram gerenciados e carregados via interface web do GitHub.
+> 🌐 **NOTA:** Este arquivo e a pasta foram carregados via interface web do GitHub.
 
 ## 👤 Responsável
 
