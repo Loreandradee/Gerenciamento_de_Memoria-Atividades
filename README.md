@@ -19,7 +19,7 @@ Este trabalho foi desenvolvido em grupo, com a divisão das questões práticas 
 | **VANUSA DA SILVA DE ALMEIDA** | 24000657-2 | **Questão 3:** Algoritmo de Substituição FIFO | Java |
 | **LORENA ANDRADE DE SOUZA** | 24017491-2 | **Questão 4:** Garbage Collection em Python | Python |
 | **ANA GABRIELLE DROPA DE ARAÚJO** | 24519267-2 | **Questão 5:** Comparação de Desempenho de Alocação | **Python** |
-| **CAIQUE [Sobrenome]** | [Inserir RA] | **Questão Bônus:** Algoritmo de Substituição LRU | **Python** |
+| **CAIQUE DAESKI FARIA** | [Inserir RA] | **Questão Bônus:** Algoritmo de Substituição LRU | **Python** |
 
 **OBSERVAÇÃO:** As respostas teóricas (Parte A de cada questão) estão contidas no documento de entrega PDF (`Respostas_Teoricas.pdf`) realizado por email, junto com o link deste repositório.
 
@@ -34,7 +34,7 @@ Este trabalho foi desenvolvido em grupo, com a divisão das questões práticas 
 | `Questão03_fifo_Java/` | Código Java da Questão 3. | Vanusa |
 | `Questão04_gc_Python/` | Código Python da Questão 4. | Lorena |
 | `Questão05_comparacao_alocacao/` | Código **Python** da Questão 5. | Ana |
-| `Questão06_bonus_lru/` | Código da Questão Bônus. | Caique |
+| `Questão06_bonus_lru/` | Código **Python** da Questão Bônus. | Caique |
 
 
 ## ▶️  Instruções de Execução
