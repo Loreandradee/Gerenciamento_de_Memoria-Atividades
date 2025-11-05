@@ -39,5 +39,5 @@ Este trabalho foi desenvolvido em grupo, com a divisão das questões práticas 
 
 ## ▶️  Instruções de Execução
 
-Não há necessidade de instruções de compilação/execução para cada programa, eles seguem o padrão de cada linguagem. Ao baixar qualquer arquivo, e compila-lo em qualquer IDE de sua ecolha (que tenha a possibilidade de ler e entender aquela determinada linguagem) o programa rodará normalmente, sem demais complicações.
+ baixar qualquer arquivo, você pode compila-lo em qualquer IDE de sua ecolha (desde que tenha a possibilidade de ler e entender aquela determinada linguagem) e o programa rodará normalmente, sem demais complicações.
 
