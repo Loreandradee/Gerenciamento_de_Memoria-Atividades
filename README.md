@@ -6,22 +6,22 @@
 * **Disciplina:** Sistemas Operacionais
 * **Professor:** José Carlos Domingues Flores
 * **Tema:** Gerenciamento de Memória em Sistemas Operacionais
-* [cite_start]**Objetivo:** Avaliar a compreensão sobre os conceitos de gerenciamento de memória em sistemas operacionais e a capacidade de aplicar esses conceitos através da implementação de códigos[cite: 6].
+* **Objetivo:** Avaliar a compreensão sobre os conceitos de gerenciamento de memória em sistemas operacionais e a capacidade de aplicar esses conceitos através da implementação de códigos.
 
 ## 👥 Membros do Grupo e Divisão das Atividades
 
-[cite_start]Este trabalho foi desenvolvido em grupo[cite: 42], com a divisão das questões práticas (Parte B) entre os componentes, conforme listado abaixo:
+Este trabalho foi desenvolvido em grupo, com a divisão das questões práticas (Parte B) entre os componentes, conforme listado abaixo:
 
 | Membro do Grupo | RA | Atividade Principal (Parte B) | Linguagem |
 | :--- | :--- | :--- | :--- |
-| **GABRIEL GUEDES ARCHANJO** | [Inserir RA] | **Questão 1:** Alocação Estática vs. Dinâmica | C |
-| **DANIEL FERNANDO ABREU DE MORAES** | [Inserir RA] | **Questão 2:** Simulação de Fragmentação de Memória | Python |
-| **VANUSA DA SILVA DE ALMEIDA** | [Inserir RA] | **Questão 3:** Algoritmo de Substituição FIFO | Java |
-| **LORENA ANDRADE DE SOUZA** | [Inserir RA] | **Questão 4:** Garbage Collection em Python | Python |
-| **ANA GABRIELLE DROPA DE ARAÚJO** | [Inserir RA] | **Questão 5:** Comparação de Desempenho de Alocação | **Python** |
+| **GABRIEL GUEDES ARCHANJO** | 24211327-2 | **Questão 1:** Alocação Estática vs. Dinâmica | C |
+| **DANIEL FERNANDO ABREU DE MORAES** | 24001011-2 | **Questão 2:** Simulação de Fragmentação de Memória | Python |
+| **VANUSA DA SILVA DE ALMEIDA** | 24000657-2 | **Questão 3:** Algoritmo de Substituição FIFO | Java |
+| **LORENA ANDRADE DE SOUZA** | 24017491-2 | **Questão 4:** Garbage Collection em Python | Python |
+| **ANA GABRIELLE DROPA DE ARAÚJO** | 24519267-2 | **Questão 5:** Comparação de Desempenho de Alocação | **Python** |
 | **CAIQUE [Sobrenome]** | [Inserir RA] | **Questão Bônus:** Algoritmo de Substituição LRU | [Escolha uma: C, Python ou Java] |
 
-[cite_start]**OBSERVAÇÃO:** Todos os componentes do grupo deverão participar tanto do desenvolvimento quanto da apresentação do trabalho[cite: 43]. As respostas teóricas (Parte A de cada questão) estão contidas no documento de entrega (`Respostas_Teoricas.pdf` ou `.md`).
+**OBSERVAÇÃO:** As respostas teóricas (Parte A de cada questão) estão contidas no documento de entrega PDF (`Respostas_Teoricas.pdf`) realizado por email, junto com o link deste repositório.
 
 ## 📂 Estrutura do Repositório (Sugestão)
 
@@ -38,7 +38,7 @@
 
 ## ▶️ Instruções de Execução
 
-[cite_start]Inclua instruções de compilação/execução para cada programa[cite: 28].
+Não há necessidade de instruções de compilação/execução para cada programa, eles seguem o padrão de cada linguagem. Ao baixar qualquer arquivo, e compila-lo em qualquer IDE de sua ecolha (que tenha a possibilidade de ler e entender aquela determinada linguagem) o programa rodará normalmente, sem demais complicações.
 
 | Questão | Arquivo Principal (Exemplo) | Instruções de Compilação/Execução |
 | :--- | :--- | :--- |
@@ -48,6 +48,3 @@
 | **Q4 (Python)** | `q4_gc_demo.py` | **Executar:** `python q4_gc_demo.py` |
 | **Q5 (Python)** | `q5_comparacao.py` | **Executar:** `python q5_comparacao.py` |
 | **Q. Bônus (Caique)** | `lru_algorithm.[extensão]` | [Instruções específicas para a linguagem escolhida] |
-
----
-*Este documento é parte do entregável do trabalho prático e deve estar no repositório do GitHub, cujo link será enviado ao professor.*
