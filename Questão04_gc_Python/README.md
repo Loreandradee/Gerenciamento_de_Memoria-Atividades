@@ -1,6 +1,6 @@
 # 📁 Q4 - GARBAGE COLLECTION EM PYTHON
 
-> 🌐 **NOTA:** Este arquivo e a pasta foram gerenciados e carregados via interface web do GitHub.
+> 🌐 **NOTA:** Este arquivo e a pasta foram carregados via interface web do GitHub.
 
 ## 👤 Responsável
 
