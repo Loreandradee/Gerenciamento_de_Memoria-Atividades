@@ -36,6 +36,7 @@ Este trabalho foi desenvolvido em grupo, com a divisão das questões práticas 
 | `q5_comparacao_alocacao/` | Código **Python** da Questão 5. | Ana |
 | `q_bonus_lru/` | Código da Questão Bônus. | Caique |
 
+
 ## ▶️ Instruções de Execução
 
 Não há necessidade de instruções de compilação/execução para cada programa, eles seguem o padrão de cada linguagem. Ao baixar qualquer arquivo, e compila-lo em qualquer IDE de sua ecolha (que tenha a possibilidade de ler e entender aquela determinada linguagem) o programa rodará normalmente, sem demais complicações.
