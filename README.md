@@ -14,7 +14,7 @@ Este trabalho foi desenvolvido em grupo, com a divisão das questões práticas 
 
 | Membro do Grupo | RA | Atividade Principal (Parte B) | Linguagem |
 | :--- | :--- | :--- | :--- |
-| **GABRIEL GUEDES ARCHANJO** | 24211327-2 | **Questão 1:** Alocação Estática vs. Dinâmica | C |
+| **GABRIEL GUEDES ARCHANJO** | 24211327-2 | **Questão 1:** Alocação Estática vs Dinâmica | C |
 | **DANIEL FERNANDO ABREU DE MORAES** | 24001011-2 | **Questão 2:** Simulação de Fragmentação de Memória | Python |
 | **VANUSA DA SILVA DE ALMEIDA** | 24000657-2 | **Questão 3:** Algoritmo de Substituição FIFO | Java |
 | **LORENA ANDRADE DE SOUZA** | 24017491-2 | **Questão 4:** Garbage Collection em Python | Python |
