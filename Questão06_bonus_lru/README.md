@@ -4,7 +4,7 @@
 
 ## 👤 Responsável
 
-* **Aluno:** CAIQUE [Sobrenome]
+* **Aluno:** TODA EQUIPE
 * **Questão Prática:** Questão Bônus: Implementação do Algoritmo LRU (Least Recently Used)
 * **Linguagem:** Python
 
